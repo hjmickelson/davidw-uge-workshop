@@ -1,0 +1,503 @@
+# Print out history up to this point
+pwd
+
+# Open history in pager
+history | less
+
+# Open history
+history
+ls
+cd
+cd ...
+ls /
+ls ~
+
+# Moves up one level and from there into the Downloads directory
+cd ../Downloads/
+cd Documents
+
+# Moves up one level in directory tree
+cd ..
+
+# Moves up two levels in directory tree
+cd ../..
+cd marmots/
+cd misc
+ls -l
+cd orkila
+cd projects/
+cd /
+ls -R
+ls -i
+man ls
+ls -h
+ls -a
+ls -rt
+ls -r
+ls -lt
+ls-t
+ls -t
+/
+cd .
+cd wedding
+cd ~/Documents/
+cd ~/Downloads/
+cd Dropbox/Code\ Fellows/
+git config --global user.name
+git config --global user.email
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew info fish
+killall fishd
+subl Git\ \&\ Unix\ Codefellows\ Notes.txt
+subl test.js
+cd Pictures
+brew update
+git --version
+ln
+subl Dropbox/Code\ Fellows/donuts.html
+subl index.html
+subl test.html
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'David Wiggins'
+brew install git
+subl /etc/paths
+brew info
+chsh -s /usr/local/bin/fish
+brew install fish
+brew doctor
+subl donuts.js
+subl donuts.html
+subl .
+open donuts.html
+ls -la
+cd donut_shop/
+git clone https://github.com/bbice/donut_shop.git
+cd samplecode/
+mkdir samplecode
+cd Code\ Fellows/
+subl donuts2.html
+cd Dropbox
+subl donuts2.html
+git config --global user.email 'david@kartograph.net'
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+echo hello world
+help
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+cd ~
+if [ -f ~/.bashrc ]; then   source ~/.bashrc; fi
+cd odessa2
+cp bob2 odessa2
+cd odessa
+mv odessa2/nikolai ...
+ls odessa2
+mv nikolai odessa2
+mkdir odessa2
+mv nikolai bob2
+mv nikolai2 bob2
+touch nikolai2
+mkdir odessa/nikolai
+ls odessa
+mkdir odessa\nikolai
+mkdir odessa
+rm -r linuxtutorialwork/
+rmdir -r linuxtutorialwork/
+rmdir linuxtutorialwork/
+rm -ri backups
+rm example4
+cd linuxtutorialwork/
+mv linuxtutorialwork/testdir/ linuxtutorialwork/bob
+mkdir linuxtutorialwork/testdir
+mv example2 example4
+cd foo3
+cd example3
+cd backups
+mv example3 backups/
+mv foo2 backups/foo3
+mkdir backups
+cp -r foo foo2
+cp foo foo2
+cp example2 example3
+touch example2
+mkdir foo
+rmdir foo2
+rmdir foo
+rmdir linuxtutorialwork/foo/bar
+rmdir linuxtutorialwork/foo2/bar2
+rmdir -pv linuxtutorialwork/foo2/bar2
+mkdir -pv linuxtutorialwork/foo2/bar2
+cd ..\..
+cd linuxtutorialwork/foo/bar
+ls linuxtutorialwork
+mkdir -p linuxtutorialwork/foo/bar
+mkdir - linuxtutorialwork/foo/bar
+man mkdir
+man cd
+ls -alh
+ls -al
+ls man
+ls -all
+ls --all
+file Seattle.jpg
+ls ..
+l s.
+ls "Google Drive"
+cd Downloads
+ls ../Pictures
+ls ..\Pictures
+ls Google\ Drive/
+ls Google\ Drive
+ls \dropbox
+ls /dropbox
+ls Dropbox
+ls /Google Drive
+ls Google Drive
+mkdir linuxtutorialwork
+git add *.c
+git
+ls -c
+ls -e
+ls -f
+git help config
+git config user.name
+git config --list
+subl
+sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+bin/subl .profile export PATH=$HOME/bin:$PATH
+bin/subl .profile
+subl --project
+git init
+subl --help,
+source ~/.bash_profile
+ export PATH=/usr/local/bin:/Users/david/.bash_profile
+open ~/.bash_profile
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+git config --global core.editor subl
+git config --global user.email david@kartograph.net
+git config --global user.name "David Wiggins"
+$ git config --global user.name "David Wiggins"
+subl --help
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+subl test2.html
+open greeting.html
+open test.html
+cd io-example/
+mkdir io-example
+pwr
+cd codefellows/
+mkdir codefellows
+mkdir projects
+rmdir Unix
+rmdir Unix/Unix2
+rmdir Unix/Unix2/Unix3
+rmdir -p Unix/Unix2/Unix3
+rmdir UnixTest
+mkdir -p Unix/Unix2/Unix3
+mkdir UnixTest
+man -k man
+man -k ls
+man -k
+file Downloads
+ls /usr/bin
+ls /var/log
+ls /bin
+ls /etc
+ls /Users/david/
+pws
+cd /Users/david
+ls ../
+ls ./
+ls /Users/david
+ls Documents
+sudo mv /Library/DropboxHelperTools ~/DropboxHelperTools.old
+sudo chmod -N ~
+sudo mv ~/.dropbox-master ~/.Trash/dropbox-master.old
+sudo mv ~/.dropbox ~/.Trash/dropbox.old
+sudo chmod -R u+rw ~/Dropbox
+sudo chown -R "$USER" ~/Dropbox
+sudo chown "$USER" "$HOME"
+echo $SHELL
+ brew install libav
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install libav
+/Applications/QGIS.app/Contents/MacOS/bin/gpsbabel ; exit;
+sudo launchctl load /Library/LaunchDaemons/com.crashplan.engine.plist
+ sudo launchctl load /Library/LaunchDaemons/com.crashplan.engine.plist​​
+ sudo rm /Library/Logs/CrashPlan/engine_output.log​
+ sudo nano /Library/LaunchDaemons/com.crashplan.engine.plist
+ sudo launchctl unload /Library/LaunchDaemons/com.crashplan.engine.plist
+    sudo launchctl load /library/launchdaemons/com.crashplan.engine.plist
+    sudo nano /library/launchdaemons/com.crashplan.engine.plist
+    sudo launchctl unload /library/launchdaemons/com.crashplan.engine.plist
+/Users/Specimen/Downloads/Frightened_Rabbit_-_The_Winter_of_Mixed_Drinks_\(2010\)_320kbps/zup.rar\ Folder/ts/\! ; exit;
+ps auxww | grep -i CrashPlanService
+sudo launchctl unload /Library/LaunchDaemons/com.crashplan.engine.plist
+1290qwop
+/usr/local/McAfee/uninstallMSC
+/Library/McAfee/cma/uninstall.sh
+ee/cma/uninstal
+ary/McAf
+/Libr
+./uninstallMSC
+sudo ./uninstallMSC
+cd /usr/local/vscanx/
+sudo nano /Library/LaunchDaemons/com.crashplan.engine.plist
+launchctl unload ~/Library/LaunchAgents/com.crashplan.engine.plist
+sudo launchctl unload /Library/LaunchDaemons/com.crashplan.engine
+/Users/Specimen/Downloads/fixrecovery-osx/fixrecovery421 ; exit;
+/Users/Specimen/Downloads/fixrecovery-osx/fixrecovery43 ; exit;
+ls -t | less
+ls -rlt
+ls -rt
+ls -t
+ls moving_down.txt
+subl moving_around.txt
+ls
+history > moving_around.txt
+pwd
+history | less
+history
+cd
+cd ...
+cd treats
+ls /
+ls ~
+cd ../Downloads/
+cd Documents
+cd ..
+cd ../..
+cd marmots/
+cd misc
+ls -l
+cd orkila
+cd projects/
+cd /
+ls -R
+ls -i
+man ls
+ls -h
+ls -a
+ls -r
+ls -lt
+ls-t
+/
+cd .
+cd wedding
+cd ~/Documents/
+cd ~/Downloads/
+cd Dropbox/Code\ Fellows/
+git config --global user.name
+git config --global user.email
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew info fish
+killall fishd
+subl Git\ \&\ Unix\ Codefellows\ Notes.txt
+subl test.js
+cd Pictures
+brew update
+git --version
+ln
+subl Dropbox/Code\ Fellows/donuts.html
+subl index.html
+subl test.html
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'David Wiggins'
+brew install git
+subl /etc/paths
+brew info
+chsh -s /usr/local/bin/fish
+brew install fish
+brew doctor
+subl donuts.js
+subl donuts.html
+subl .
+open donuts.html
+ls -la
+cd donut_shop/
+git clone https://github.com/bbice/donut_shop.git
+cd samplecode/
+mkdir samplecode
+cd Code\ Fellows/
+subl donuts2.html
+cd Dropbox
+subl donuts2.html
+git config --global user.email 'david@kartograph.net'
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+echo hello world
+help
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+cd ~
+if [ -f ~/.bashrc ]; then   source ~/.bashrc; fi
+cd odessa2
+cp bob2 odessa2
+cd odessa
+mv odessa2/nikolai ...
+ls odessa2
+mv nikolai odessa2
+mkdir odessa2
+mv nikolai bob2
+mv nikolai2 bob2
+touch nikolai2
+mkdir odessa/nikolai
+ls odessa
+mkdir odessa\nikolai
+mkdir odessa
+rm -r linuxtutorialwork/
+rmdir -r linuxtutorialwork/
+rmdir linuxtutorialwork/
+rm -ri backups
+rm example4
+cd linuxtutorialwork/
+mv linuxtutorialwork/testdir/ linuxtutorialwork/bob
+mkdir linuxtutorialwork/testdir
+mv example2 example4
+cd foo3
+cd example3
+cd backups
+mv example3 backups/
+mv foo2 backups/foo3
+mkdir backups
+cp -r foo foo2
+cp foo foo2
+cp example2 example3
+touch example2
+mkdir foo
+rmdir foo2
+rmdir foo
+rmdir linuxtutorialwork/foo/bar
+rmdir linuxtutorialwork/foo2/bar2
+rmdir -pv linuxtutorialwork/foo2/bar2
+mkdir -pv linuxtutorialwork/foo2/bar2
+cd ..\..
+cd linuxtutorialwork/foo/bar
+ls linuxtutorialwork
+mkdir -p linuxtutorialwork/foo/bar
+mkdir - linuxtutorialwork/foo/bar
+man mkdir
+man cd
+ls -alh
+ls -al
+ls man
+ls -all
+ls --all
+file Seattle.jpg
+ls ..
+l s.
+ls "Google Drive"
+cd Downloads
+ls ../Pictures
+ls ..\Pictures
+ls Google\ Drive/
+ls Google\ Drive
+ls \dropbox
+ls /dropbox
+ls Dropbox
+ls /Google Drive
+ls Google Drive
+mkdir linuxtutorialwork
+git add *.c
+git
+ls -c
+ls -e
+ls -f
+git help config
+git config user.name
+git config --list
+subl
+sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+bin/subl .profile export PATH=$HOME/bin:$PATH
+bin/subl .profile
+subl --project
+git init
+subl --help,
+source ~/.bash_profile
+ export PATH=/usr/local/bin:/Users/david/.bash_profile
+open ~/.bash_profile
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+git config --global core.editor subl
+git config --global user.email david@kartograph.net
+git config --global user.name "David Wiggins"
+$ git config --global user.name "David Wiggins"
+subl --help
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+subl test2.html
+open greeting.html
+open test.html
+cd io-example/
+mkdir io-example
+pwr
+cd codefellows/
+mkdir codefellows
+mkdir projects
+rmdir Unix
+rmdir Unix/Unix2
+rmdir Unix/Unix2/Unix3
+rmdir -p Unix/Unix2/Unix3
+rmdir UnixTest
+mkdir -p Unix/Unix2/Unix3
+mkdir UnixTest
+man -k man
+man -k ls
+man -k
+file Downloads
+ls /usr/bin
+ls /var/log
+ls /bin
+ls /etc
+ls /Users/david/
+pws
+cd /Users/david
+ls ../
+ls ./
+ls /Users/david
+ls Documents
+sudo mv /Library/DropboxHelperTools ~/DropboxHelperTools.old
+sudo chmod -N ~
+sudo mv ~/.dropbox-master ~/.Trash/dropbox-master.old
+sudo mv ~/.dropbox ~/.Trash/dropbox.old
+sudo chmod -R u+rw ~/Dropbox
+sudo chown -R "$USER" ~/Dropbox
+sudo chown "$USER" "$HOME"
+echo $SHELL
+ brew install libav
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install libav
+/Applications/QGIS.app/Contents/MacOS/bin/gpsbabel ; exit;
+sudo launchctl load /Library/LaunchDaemons/com.crashplan.engine.plist
+ sudo launchctl load /Library/LaunchDaemons/com.crashplan.engine.plist​​
+ sudo rm /Library/Logs/CrashPlan/engine_output.log​
+ sudo nano /Library/LaunchDaemons/com.crashplan.engine.plist
+ sudo launchctl unload /Library/LaunchDaemons/com.crashplan.engine.plist
+    sudo launchctl load /library/launchdaemons/com.crashplan.engine.plist
+    sudo nano /library/launchdaemons/com.crashplan.engine.plist
+    sudo launchctl unload /library/launchdaemons/com.crashplan.engine.plist
+/Users/Specimen/Downloads/Frightened_Rabbit_-_The_Winter_of_Mixed_Drinks_\(2010\)_320kbps/zup.rar\ Folder/ts/\! ; exit;
+ps auxww | grep -i CrashPlanService
+sudo launchctl unload /Library/LaunchDaemons/com.crashplan.engine.plist
+1290qwop
+/usr/local/McAfee/uninstallMSC
+/Library/McAfee/cma/uninstall.sh
+ee/cma/uninstal
+ary/McAf
+/Libr
+./uninstallMSC
+sudo ./uninstallMSC
+cd /usr/local/vscanx/
+sudo nano /Library/LaunchDaemons/com.crashplan.engine.plist
+launchctl unload ~/Library/LaunchAgents/com.crashplan.engine.plist
+sudo launchctl unload /Library/LaunchDaemons/com.crashplan.engine
+/Users/Specimen/Downloads/fixrecovery-osx/fixrecovery421 ; exit;
+/Users/Specimen/Downloads/fixrecovery-osx/fixrecovery43 ; exit;
