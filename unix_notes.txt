@@ -1,3 +1,7 @@
+#hidden files have names that begin with a dot
+
+#if you delete the .git file, you lose all your commits
+
 # Print out history up to this point
 pwd
 
