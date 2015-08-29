@@ -1,0 +1,19 @@
+# Git commands
+
+# git init - make current directory a git repo
+
+# git add - stages changes for commits, or adds them to the index (stage)
+
+# git commit - takes snapshot of the current state of the code
+
+# git branch - list of current branches (or add file name to create new branch)
+
+# git log - history of commits (snapshots)
+
+# git status - current status of git repository
+
+# git checkout - switches branches
+
+# git config - set configuration values of git
+
+
